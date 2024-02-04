@@ -1,0 +1,41 @@
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\bin\Debug\Kursovoy project.exe.config
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\bin\Debug\Kursovoy project.exe
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\bin\Debug\Kursovoy project.pdb
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\bin\Debug\MySql.Data.dll
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\bin\Debug\Google.Protobuf.dll
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\bin\Debug\ZstdNet.dll
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\bin\Debug\BouncyCastle.Crypto.dll
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\bin\Debug\System.Memory.dll
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\bin\Debug\System.Buffers.dll
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\bin\Debug\K4os.Compression.LZ4.dll
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\bin\Debug\K4os.Hash.xxHash.dll
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\bin\Debug\MySql.Data.xml
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy project.csproj.AssemblyReference.cache
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy project.csproj.SuggestedBindingRedirects.cache
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy project.exe.config
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy_project.accaunt.resources
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy_project.Properties.Resources.resources
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy project.csproj.GenerateResource.cache
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy project.csproj.CoreCompileInputs.cache
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy project.csproj.CopyComplete
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy project.exe
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy project.pdb
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy_project.authorization.resources
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy_project.MainForm.resources
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy_project.Zapis.resources
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy_project.Zapis_na_curs.resources
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy_project.Kurs.resources
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy_project.java.resources
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy_project.C_sharp.resources
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy_project.CSS.resources
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy_project.admins.resources
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy_project.Material.resources
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy_project.prepod.resources
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy_project.User.resources
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy_project.oplata.resources
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy project.csproj.ResolveComReference.cache
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy_project.Spravochnik.resources
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy_project.teh_help.resources
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy_project.setting.resources
+D:\KIYAP\Курсовой проект ''Обучающие курсы'' Радомский Алексей Дмитриевич\Kursovoy project\Kursovoy project\obj\Debug\Kursovoy_project.informals.resources

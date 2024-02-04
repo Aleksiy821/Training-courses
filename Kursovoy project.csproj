@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4D06462D-7F39-4222-A52C-D71E95339E55}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Kursovoy_project</RootNamespace>
+    <AssemblyName>Kursovoy project</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.32.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\MySQL\Connector NET 8.0\Assemblies\v4.5.2\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admins.Designer.cs">
+      <DependentUpon>admins.cs</DependentUpon>
+    </Compile>
+    <Compile Include="authorization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="authorization.Designer.cs">
+      <DependentUpon>authorization.cs</DependentUpon>
+    </Compile>
+    <Compile Include="C sharp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="C sharp.Designer.cs">
+      <DependentUpon>C sharp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CSS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CSS.Designer.cs">
+      <DependentUpon>CSS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DB.cs" />
+    <Compile Include="accaunt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accaunt.Designer.cs">
+      <DependentUpon>accaunt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="informals.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="informals.Designer.cs">
+      <DependentUpon>informals.cs</DependentUpon>
+    </Compile>
+    <Compile Include="java.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="java.Designer.cs">
+      <DependentUpon>java.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kurs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kurs.Designer.cs">
+      <DependentUpon>Kurs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Material.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Material.Designer.cs">
+      <DependentUpon>Material.cs</DependentUpon>
+    </Compile>
+    <Compile Include="oplata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="oplata.Designer.cs">
+      <DependentUpon>oplata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="prepod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="prepod.Designer.cs">
+      <DependentUpon>prepod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="setting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setting.Designer.cs">
+      <DependentUpon>setting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Spravochnik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Spravochnik.Designer.cs">
+      <DependentUpon>Spravochnik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teh_help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teh_help.Designer.cs">
+      <DependentUpon>teh_help.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User.Designer.cs">
+      <DependentUpon>User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zapis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zapis.Designer.cs">
+      <DependentUpon>Zapis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zapis_na_curs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zapis_na_curs.Designer.cs">
+      <DependentUpon>Zapis_na_curs.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="accaunt.resx">
+      <DependentUpon>accaunt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admins.resx">
+      <DependentUpon>admins.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="authorization.resx">
+      <DependentUpon>authorization.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="C sharp.resx">
+      <DependentUpon>C sharp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CSS.resx">
+      <DependentUpon>CSS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="informals.resx">
+      <DependentUpon>informals.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="java.resx">
+      <DependentUpon>java.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kurs.resx">
+      <DependentUpon>Kurs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Material.resx">
+      <DependentUpon>Material.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="oplata.resx">
+      <DependentUpon>oplata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="prepod.resx">
+      <DependentUpon>prepod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setting.resx">
+      <DependentUpon>setting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Spravochnik.resx">
+      <DependentUpon>Spravochnik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teh_help.resx">
+      <DependentUpon>teh_help.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User.resx">
+      <DependentUpon>User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zapis.resx">
+      <DependentUpon>Zapis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zapis_na_curs.resx">
+      <DependentUpon>Zapis_na_curs.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="images\mbKf55T7Yr0U3jkYjOaVHNaSPJ_-2auViHId0J9IBR_FvAgV-Kspyc1GHa58xlSjMAcpx7Kf4X4_xUVd53UDxxDj.jpg.crdownload" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\_BZMmzzyN78.jpg" />
+    <None Include="images\update.jpg" />
+    <None Include="images\9010860_orig.jpg" />
+    <None Include="images\QhkbemuHbfM.jpg" />
+    <None Include="images\K49ZDMn4Ido.jpg" />
+    <None Include="images\web-deve.png" />
+    <None Include="images\imagess.png" />
+    <None Include="images\IMG_20221104_191346_735.jpg" />
+    <None Include="images\image_processing20210827-29-sjxgbs.png" />
+    <None Include="images\UPPc85CfSTE.jpg" />
+    <None Include="images\image_processing20220621-33-nlbwuo.png" />
+    <None Include="images\Без названия %282%29.png" />
+    <None Include="images\C-.jpg" />
+    <None Include="images\images %281%29.png" />
+    <None Include="images\Без названия %281%29.png" />
+    <None Include="images\png-clipart-javascript-computer-icons-software-developer-cascading-style-sheets-javascript-logo-angle-text.png" />
+    <None Include="images\Python-logo-notext.svg.png" />
+    <None Include="images\mini_magick20180202-74-1oxq91c.png" />
+    <None Include="images\df14db5f5137ae8edf70c9c871ac7b9d.png" />
+    <None Include="images\1563806365_microsoft_openai_story.jpg" />
+    <None Include="images\logo-it-academy.png" />
+    <None Include="images\1538124374_18560669605badea5653cf24.16746008.png" />
+    <None Include="images\1476977754.png" />
+    <None Include="images\10-samykh-populyarnykh-yazykov-programmirovaniya-2022-goda-c-kheshteg.png" />
+    <None Include="images\137-1372491_g-web-developers-web-developer-logo-png-transparent.png" />
+    <None Include="images\1,5-min.png" />
+    <None Include="images\1-5-1.jpg" />
+    <Content Include="images\1651916_calendar_christmas_date_december_icon.png" />
+    <None Include="images\1_xfJlmNB_-rAJAJzBNKanlQ.jpg" />
+    <None Include="images\20230316_093626.jpg" />
+    <Content Include="images\216490_add_user_icon.png" />
+    <Content Include="images\2203549_admin_avatar_human_login_user_icon.png" />
+    <Content Include="images\4202011_email_gmail_mail_logo_social_icon.png" />
+    <None Include="images\43ab9f85f23557dc5272fed0bbc369fa.jpg" />
+    <Content Include="images\5173012_internet_lock_locked_padlock_password_icon.png" />
+    <Content Include="images\5416278_close_exit_x_icon.png" />
+    <None Include="images\63065002cd563e1cd1cead28_eaadfe64.png" />
+    <None Include="images\564619.jpg" />
+    <Content Include="images\7148710_minus_remove_delete_trash_collapse_icon.png" />
+    <Content Include="images\8396413_id_card_identity_name_identification_icon.png" />
+    <None Include="images\870x489_0x207_detail_crop_20210729100942_d290e8d8_25cf2ecbe12d3cfff33963c34a81c0b44d21db7fea794be3ff5575777c258406.jpg" />
+    <Content Include="images\8726574_x_icon.png" />
+    <None Include="images\epam.png" />
+    <None Include="images\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
